@@ -10,8 +10,9 @@ This package provides a simple way to create PDFs in Laravel apps. Under the hoo
 ### Installation & setup
 You can install the package via composer:
 
-```composer require spatie/laravel-pdf
-```
+````
+composer require spatie/laravel-pdf
+````
 
 web.php
 
